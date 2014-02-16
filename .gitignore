@@ -1,0 +1,8 @@
+#Eclipse related
+
+.buildpath
+.project
+.settings
+.DS_Store
+.idea
+.classpath
